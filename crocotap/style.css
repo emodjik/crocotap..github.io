@@ -38,7 +38,7 @@ body, html {
 }
 
 .custom-button:hover {
-    transform: scale(1.1); /* Увеличение кнопки при наведении */
+    transform: scale(4); /* Увеличение кнопки при наведении */
 }
 
 .custom-button:active {
