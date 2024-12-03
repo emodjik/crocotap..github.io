@@ -31,7 +31,7 @@ body, html {
     background-image: url('image/1254_oooo\,plus-photoaidcom-cropped.png'); /* Путь к изображению кнопки */
     background-size: cover;
     cursor: pointer;
-    border-radius: 50%; /* Делаем кнопку круглой */
+    border-radius: 10%; /* Делаем кнопку круглой */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
     transition: transform 0.2s ease-in-out;
     outline: none; /* Убираем контур при фокусе */
